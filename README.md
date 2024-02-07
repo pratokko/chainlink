@@ -1,4 +1,4 @@
-# chainlink common vulnerabilities
+## chainlink common vulnerabilities
 
-Not checking for stale prices
-Not checking for L2 sequencer down
+1. Not checking for stale prices
+2. Not checking for L2 sequencer down
