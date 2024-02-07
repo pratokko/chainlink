@@ -1,3 +1,4 @@
 # chainlink common vulnerabilities
 
-Please note that this readme will be updated soon
+Not checking for stale prices
+Not checking for L2 sequencer down
